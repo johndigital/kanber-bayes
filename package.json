@@ -1,0 +1,31 @@
+{
+  "name": "kanber-bayes",
+  "version": "1.0.0",
+  "description": "Burak Kanber's implementation of a simple naive bayes classifier in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrobson153/kanber-bayes.git"
+  },
+  "keywords": [
+    "natural",
+    "language",
+    "processing",
+    "naive",
+    "bayes",
+    "burak",
+    "kanber"
+  ],
+  "author": "Burak Kanber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrobson153/kanber-bayes/issues"
+  },
+  "homepage": "https://github.com/jrobson153/kanber-bayes#readme",
+  "devDependencies": {
+    "tap": "^10.7.2"
+  }
+}
